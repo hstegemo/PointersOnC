@@ -1,0 +1,3 @@
+/home/helge/c-code/PointersOnC/ch6/ex6_find_char/cmake-build-debug/CMakeFiles/ex6_find_char.dir
+/home/helge/c-code/PointersOnC/ch6/ex6_find_char/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/helge/c-code/PointersOnC/ch6/ex6_find_char/cmake-build-debug/CMakeFiles/rebuild_cache.dir

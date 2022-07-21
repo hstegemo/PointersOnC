@@ -1,0 +1,6 @@
+.idea
+bin
+cmake-build-*\jobj
+venv
+.*db\*.pyc
+*.swp
